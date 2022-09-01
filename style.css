@@ -262,6 +262,10 @@ img{
     font-size: 2rem;
 }
 
+.myId i{
+    font-size: 1.4rem;
+}
+
 @media screen and (max-width:940px){
     .top-bar{
         display: flex;
